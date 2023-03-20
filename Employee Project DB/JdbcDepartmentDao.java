@@ -1,5 +1,3 @@
-package com.techelevator.projects.dao;
-
 import java.util.ArrayList;
 import java.util.List;
 
